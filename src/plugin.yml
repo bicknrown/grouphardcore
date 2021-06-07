@@ -1,0 +1,7 @@
+name: "GroupHardcore"
+version: 0.1
+author: "bicknrown"
+main: org.bicknrown.grouphardcore.GroupHardcore
+api-version: 1.16
+website: https://github.com/bicknrown
+load: STARTUP
